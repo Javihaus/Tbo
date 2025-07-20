@@ -8,6 +8,9 @@
 </tr>
 </table>
 
+<div align="center">
+  <img width="500" height="450" alt="Temporal Bandwidth Prediction Model" src="research/images/prediction.png" />
+</div>
 
 Research infrastructure for optimizing collaborative efficiency in autoregressive transformer deployments. Addresses measured performance constraints (21-56% efficiency degradation under temporal stress) in existing Claude/GPT systems through empirically-validated optimization strategies.
 
