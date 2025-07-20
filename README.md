@@ -1,11 +1,12 @@
 # Temporal Bandwidth Optimizer
 
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Documentation](https://img.shields.io/badge/docs-latest-green.svg)](docs/)
-
-
-<div align="center">
-  <img width="500" height="450" alt="Temporal Bandwidth Prediction Model" src="research/images/prediction.png" />
-</div> 
+<table>
+<tr>
+<td><img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+"></td>
+<td><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></td>
+<td><img src="https://img.shields.io/badge/docs-latest-green.svg" alt="Documentation"></td>
+</tr>
+</table>
 
 
 Research infrastructure for optimizing collaborative efficiency in autoregressive transformer deployments. Addresses measured performance constraints (21-56% efficiency degradation under temporal stress) in existing Claude/GPT systems through empirically-validated optimization strategies.
